@@ -1,4 +1,4 @@
-// Import required libraries
+// Import required libraries. Warning be careful with versions!
 use substrate_runtime::{BuildStorage, RuntimeDefinition};
 use sp_runtime::traits::{BlakeTwo256, IdentityLookup};
 use sc_service::{ChainType, Properties};
